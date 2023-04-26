@@ -8,7 +8,7 @@
 
 ## About
 
-Aplicação sobre um Gerenciamento de Aniversários de Amigos utilizando as linguagens C# ( com o framework .NET), CSS e Javascript, utilizando o template MVC e dados armazedados em uma base de dados SQL Server Express LocalDBem <br /><br /> 
+Aplicação sobre um Gerenciamento de Aniversários de Amigos utilizando as linguagens C# ( com o framework .NET), CSS e Javascript, com o template MVC e dados armazenados em uma base de dados SQL Server Express LocalDB<br /><br /> 
     
 ## Programming languages and tools
 
